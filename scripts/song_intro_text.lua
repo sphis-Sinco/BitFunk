@@ -21,15 +21,15 @@ function onCountdownStarted()
                 makeLuaText(introTextVariableName, introText, 0, 0.0, 0.0)
                 setTextSize(introTextVariableName, 32)
                 screenCenter(introTextVariableName)
-
-                if debug then
-                        debugPrint(introTextFile)
-                        debugPrint(introText)
-                end
-
                 addLuaText(introTextVariableName)
 
                 runTimer("pre-erase")
+        end
+        if debug then
+                debugPrint(introTextFile)
+                if displayIntro then
+                        debugPrint(getTextFromFile(introTextFile))
+                end
         end
 end
 
