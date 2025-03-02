@@ -7,6 +7,13 @@
 	// string - A text instead of numbers/false and true, you gotta set up "options" variable to it
 	// key - TO BE IMPLEMENTED
 	{
+		"save": "debug",
+		"name": "Debug mode",
+		"type": "bool",
+		"description": "Toggles debug features",
+		"value": false
+	},
+	{
 		"save": "song_intro_text",
 		"name": "Song Intro Text",
 		"type": "bool",

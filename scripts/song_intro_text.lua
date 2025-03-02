@@ -6,8 +6,8 @@ boxVarName = 'blackbox'
 boxColor = '7F000000'
 
 function onCountdownStarted()
-        debug = false
-        
+        debug = getDataFromSave('bit_funk_savedata', 'debug', false)
+
         introTextFile = 'data/' .. songPath .. '/' .. introTextFileName .. '.txt'
         displayIntro = checkFileExists(introTextFile) == true and getDataFromSave('bit_funk_savedata', 'song_intro_text', true) == true
 
