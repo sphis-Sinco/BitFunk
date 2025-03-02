@@ -332,6 +332,8 @@
 		}
 	],
 	"gfVersion": "bit-gf",
+	"disableNoteRGB": false,
+	"gameOverChar": "bit-bf-death",
 	"events": [],
 	"song": "Bopeebo",
 	"stage": "main stage",
