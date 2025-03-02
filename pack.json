@@ -1,9 +1,9 @@
 {
-	"name": "BitFunk Iter1",
-	"description": "FNF but Pixel art\nCurrent Pixel Things:\n- Bit week 1 (dad, bf, gf, main stage)\n\nThere are settings but they might not be working. Might be a Psych Engine thing",
+	"name": "BitFunk Iter2",
+	"description": "FNF but Pixel art\nCurrent Pixel Things:\n- (full) Bit week 1 (dad, bf, gf, main stage)\n\nThere are settings but they might not be working. Might be a Psych Engine thing",
 	"restart":false,
 	"runsGlobally": false,
 	"color": [49, 162, 242],
-	"discordRPC": "1345877561808388096",
+	"discordRPC": "1345895343342223501",
 	"iconFramerate": 10
 }
