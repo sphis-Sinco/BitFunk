@@ -1,6 +1,6 @@
 {
-	"name": "BitFunk",
-	"description": "FNF but Pixel art",
+	"name": "BitFunk Iter1",
+	"description": "FNF but Pixel art\nThere are settings but they might not be working. Might be a Psych Engine thing",
 	"restart":false,
 	"runsGlobally": false,
 	"color": [170, 0, 255],
