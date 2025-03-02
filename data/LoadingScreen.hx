@@ -49,9 +49,9 @@ var timePassed = 0;
 function onUpdate(elapsed:Float) {
 	// do something here every frame
 
-        trace(getLoaded());
+        // trace(getLoaded());
 	
-        /*timePassed += elapsed;
+        timePassed += elapsed;
 	var dots:String = '';
 	switch (Math.floor(timePassed % 1 * 3)) {
 		case 0:
@@ -66,7 +66,7 @@ function onUpdate(elapsed:Float) {
 
 	loadingText.text = loadedString;
 	loadingText.screenCenter();
-	loadingText.y = loadingText_verticalPosition;*/
+	loadingText.y = loadingText_verticalPosition;
 }
 
 function precacheImage(name:String, ?allowGPU:Bool = true) {
