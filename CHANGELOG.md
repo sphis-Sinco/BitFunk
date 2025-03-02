@@ -1,5 +1,6 @@
 # Iteration 2 - 3/2/2025
 - Bitweek 1 now has fresh and dadbattle
+- Bit BF miss animations are pure blue so its easier to tell you missed.
 
 # Iteration 1 - 3/2/2025
 - Bitweek 1 (only Bopeebo)
