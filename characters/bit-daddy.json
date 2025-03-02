@@ -1,44 +1,44 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"indices": [],
-			"fps": 12,
 			"anim": "idle",
-			"loop": false,
-			"name": "dad idle"
+			"fps": 12,
+			"name": "dad idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"indices": [],
-			"fps": 12,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "dad left"
+			"fps": 12,
+			"name": "dad left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"indices": [],
-			"fps": 12,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "dad down"
+			"fps": 12,
+			"name": "dad down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"indices": [],
-			"fps": 12,
 			"anim": "singUP",
-			"loop": false,
-			"name": "dad up"
+			"fps": 12,
+			"name": "dad up",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
-			"indices": [],
-			"fps": 12,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "dad right"
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "dad right",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
