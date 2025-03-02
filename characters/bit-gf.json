@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [0, 1, 2, 3, 2, 1],
+			"fps": 8,
+			"anim": "danceLeft",
+			"loop": true,
+			"name": "bop"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0, 4, 5, 6, 5, 4],
+			"fps": 8,
+			"anim": "danceRight",
+			"loop": true,
+			"name": "bop"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 8,
+			"anim": "hey",
+			"loop": true,
+			"name": "hey"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bit-gf",
+	"position": [0, 0],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": false
+}
