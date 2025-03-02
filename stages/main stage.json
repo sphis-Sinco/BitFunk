@@ -3,26 +3,27 @@
 		0,
 		0
 	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
 	"_editorMeta": {
 		"boyfriend": "bit-bf",
-		"gf": "bit-bf",
-		"dad": "bit-bf"
+		"dad": "bit-daddy",
+		"gf": "bit-gf"
 	},
-	"preload": {
-		"images/stage_light": 2,
-		"images/stagecurtains": 2,
-		"images/stagefront": 3,
-		"images/stageback": 3
-	},
-	"girlfriend": [
-		600,
-		110
-	],
-	"stageUI": "",
 	"boyfriend": [
 		690,
 		100
 	],
+	"stageUI": "",
+	"girlfriend": [
+		600,
+		110
+	],
+	"defaultZoom": 2,
 	"objects": [
 		{
 			"x": 271,
@@ -126,16 +127,15 @@
 		-50,
 		-100
 	],
-	"defaultZoom": 2,
-	"camera_speed": 1,
-	"directory": "",
 	"opponent": [
 		520,
 		100
 	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
 	"camera_opponent": [
 		-200,
 		0
-	],
-	"hide_girlfriend": false
+	]
 }
