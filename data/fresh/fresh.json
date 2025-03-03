@@ -494,7 +494,7 @@
 	"gfVersion": "bit-gf",
 	"events": [],
 	"song": "Fresh",
-	"stage": "main stage crowd1",
+	"stage": "main stage crowd1-normal",
 	"needsVoices": true,
 	"format": "psych_v1_convert",
 	"speed": 1.3,

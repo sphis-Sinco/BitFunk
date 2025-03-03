@@ -1,3 +1,7 @@
+# Iteration 3 - 3/2/2025
+- Fresh easy and normal now have smaller crowds depending on if its easy or normal
+- Dadbattle easy and normal now have smaller crowds depending on if its easy or normal
+
 # Iteration 2 - 3/2/2025
 - Bitweek 1 now has fresh and dadbattle
 - Instead of saying "Bopeebo by Kawai sprite" the Bopeebo intro now says "Song by Kawai Sprite"

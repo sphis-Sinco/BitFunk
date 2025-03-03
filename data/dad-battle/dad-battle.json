@@ -662,7 +662,7 @@
 	"gfVersion": "bit-gf",
 	"events": [],
 	"song": "Dad Battle",
-	"stage": "main stage crowd2",
+	"stage": "main stage crowd2-normal",
 	"needsVoices": true,
 	"format": "psych_v1_convert",
 	"speed": 1.5,
